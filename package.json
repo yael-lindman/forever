@@ -33,7 +33,7 @@
     "prettyjson": "^1.2.1",
     "shush": "^1.0.0",
     "utile": "~0.3.0",
-    "winston": "~0.8.1"
+    "winston": "~0.9.0"
   },
   "devDependencies": {
     "broadway": "~0.3.6",
